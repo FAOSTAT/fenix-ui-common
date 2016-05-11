@@ -80,9 +80,6 @@ define([
 
         });
 
-        console.log("********************************")
-        console.log(filter)
-
         return filter;
     };
 
